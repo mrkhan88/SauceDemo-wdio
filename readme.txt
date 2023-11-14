@@ -1,1 +1,2 @@
-This a demo project for parctice purpose only.
+This a demo project for parctice automation only.
+we are using javascript with wdio.
